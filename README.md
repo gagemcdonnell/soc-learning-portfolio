@@ -1,8 +1,8 @@
 # SOC Learning Portfolio
 
-This repo documents my self-study progress while building foundational skillsn for SOC & blue team cybersecurity roles.
+This repo documents my self-study progress while building foundational skills for SOC & blue team cybersecurity roles.
 
-Main focus:
+My main focus:
 - Security fundamentals
 - Networking (IP, DNS, ports, protocols)
 - Linux fundamentals (WSL/Ubuntu)
