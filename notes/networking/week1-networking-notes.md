@@ -28,7 +28,7 @@ Wireless signals - Transmission achieved by using infrared, microwave, or radio 
 - The type of data being transmitted.
 - The latency created by the number of network devices encountered between source and destination.
   
-# Throughput measurements do not take into account the validity or usefulness of the bits being transmitted and received.
+### Throughput measurements do not take into account the validity or usefulness of the bits being transmitted and received.
 
 ## SOC Relevance
 - Understanding bandwidth and throughput helps understand network congestion.
