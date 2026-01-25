@@ -6,9 +6,9 @@
 
 ## Common Methods of Data Transmission
 
-Electrical signals - Transmission achieved by representing data as electrical pulses on copper wire.
-Optical signals - Transmission achieved by converting electrical signals into light pulses.
-Wireless signals - Transmission achieved by using infrared, microwave, or radio waves through the air.
+- Electrical signals - Transmission achieved by representing data as electrical pulses on copper wire.
+- Optical signals - Transmission achieved by converting electrical signals into light pulses.
+- Wireless signals - Transmission achieved by using infrared, microwave, or radio waves through the air.
 
 ## Bandwidth
 - The capacity of a medium to carry data. Measured in the number of bits that can be sent across the media in a second.
