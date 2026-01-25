@@ -12,8 +12,8 @@ Wireless signals - Transmission achieved by using infrared, microwave, or radio 
 
 ## Bandwidth
 - The capacity of a medium to carry data. Measured in the number of bits that can be sent across the media in a second.
-- 
-# Can be measured in:
+  
+## Can be measured in:
 - Bits per second (bps)         # fundamental unit of bandwidth
 - Kilobits per second (kbps)    # 1,000 bps
 - Megabits per second (mbps)    # 1,000,000 bps
@@ -22,11 +22,11 @@ Wireless signals - Transmission achieved by using infrared, microwave, or radio 
 
 ## Throughput 
 - The actual rate of the transfer of bits across the media over a given period of time.
-- 
-# Influenced by factors:
+  
+## Influenced by factors:
 - Amount of data being sent and received over the connection.
 - The type of data being transmitted.
 - The latency created by the number of network devices encountered between source and destination.
-- 
-# Throughput measurements do not take into account the validity or usefulness of the bits being transmitted and received.
+  
+## Throughput measurements do not take into account the validity or usefulness of the bits being transmitted and received.
 
