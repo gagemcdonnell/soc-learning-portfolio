@@ -1,1 +1,21 @@
-
+## Understanding Variables and Data Types
+**Variables** store and reference data.
+- Variables can only start with a letter or underscore.
+- Variables names should be **lowercase** and words should be separated by an **underscore**.
+- **Assign** variables with **`=`**.
+A **String** is a series of characters used to represent text, written in quotes **`" "`**. **Ex.** `"Hello"`
+**Ex.** `my_variable_name = "apple"`
+**Comments** can be made with the **`#`** symbol.
+**`print`** function can show multiple arguments at one time by separating them with commas.
+**Ex.** `print('My favorite colors are', 'green', 'blue', 'red')`
+**Integers** are numbers without decimals. **Ex.** `my_integer_var = 10`
+**Floats** are numbers with decimals. **Ex.** `my_float_var = 4.50`
+A **Boolean** is a **true or false** type. **Ex.** `my_boolean_var = True`
+A **set** is an **unordered** collection of unique elements. **Ex.** `my_set_var = {7, 5, 8}`
+A **dictionary** is a collection of **key-value pairs** in curly braces. **Ex.** `{'name':, 'John', 'age':, '28'}`
+A **tuple** is in **immutable** ordered collection in brackets. **Ex.** `my_tuple_var = (7, 8, 9)`
+**Range** is the sequence of numbers often used in loops. **Ex.** `my_range_var = range(5)`
+A **list** is an **ordered** collection of elements that support different data types. **Ex.** `my_list = [22, 'Hello World', 3.14, True]`
+**None** is a special value that represents the **absence** of a value. **Ex.** `my_none_var = none`
+**`type()`** is used to get the data type of a variable. **Ex.** `my_var_1 = "Hello World" → print(type(my_var_1)) →` Output: `<class 'str`
+**`isinstance`** checks if a variable matches a data type. **Ex.** `isinstance(my_var_1, bool) →` Output: `False` 
